@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="52c3e519-ecce-48a0-83e8-50636f5c97c0">
+  <name>Модуль5</name>
+  <synonym>
+    <key>en</key>
+    <value>Модуль 5 курса EDT+Git</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="e37108c5-f5e1-4cd4-8b04-5c8e0eefe21f"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="d982a2a7-3492-44b7-9a88-328c1ccbaddc"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="2f4786aa-b9ae-49bd-ae6c-c7a687a53b8b"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="3ab189d8-fe38-4f33-bd79-011dc446a6ec"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="7f54c8c9-7c0a-4727-a4fb-d786c6f668d4"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="e9d61f83-4523-4bc7-9356-2e8c81d7c894"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="0623e6e2-b996-4476-9c32-ecad2076cf2f"/>
+  <configurationExtensionCompatibilityMode>8.3.19</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.19</compatibilityMode>
+  <languages uuid="4b1ff009-156b-4159-9d2a-87dd5f7230f5">
+    <name>Русский</name>
+    <synonym>
+      <key>en</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Товары</catalogs>
+  <documents>Document.ПриходТоваров</documents>
+  <documents>Document.ПродажаТоваров</documents>
+  <reports>Report.ОстаткиТоваров</reports>
+  <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>
+</mdclass:Configuration>

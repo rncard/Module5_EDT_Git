@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a263258c-3a8a-44b4-a6e9-602c1e19b510">
+  <producedTypes>
+    <objectType typeId="3762a1ef-de91-43f6-bd69-860f40ddd52b" valueTypeId="d622632c-945f-4429-8d1c-9bf9cab6818d"/>
+    <managerType typeId="12655664-132c-45dc-a78c-2aea4a0229e5" valueTypeId="dc541104-c14e-45b3-8de7-e24348d66d8d"/>
+  </producedTypes>
+  <name>ОстаткиТоваров</name>
+  <synonym>
+    <key>ru</key>
+    <value>Остатки товаров</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.ОстаткиТоваров.Template.Макет</mainDataCompositionSchema>
+  <templates uuid="85ad3418-dde6-4024-a21b-7f6656e5de81">
+    <name>Макет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>
